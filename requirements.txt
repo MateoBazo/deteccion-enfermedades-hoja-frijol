@@ -1,0 +1,9 @@
+torch
+torchvision
+scikit-learn
+pandas
+matplotlib
+pillow
+google-genai
+python-dotenv
+streamlit

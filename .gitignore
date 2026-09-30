@@ -1,0 +1,21 @@
+# Claves (nunca subir)
+.env
+.streamlit/secrets.toml
+
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dataset (174 MB) — se descarga con los comandos del README
+data/
+*.zip
+
+# Sistema / editores
+.DS_Store
+.vscode/
+.idea/
